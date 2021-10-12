@@ -6,6 +6,8 @@ I am a great team player however I prefer to program by myself when given the ch
 
 I am the kinda person with over a hundred thousand unfinished projects over my lifetime, however I am NOT the type of person to announce something publicly that I don't intend of finishing. This is because I beleive its sometimes important to program things for fun with no intent on releasing them just to challenge what you know and push your minds limits. When you promise you will deliver something or are expected to release it, not doing so without a justified reason is a reflection of not only a lack of dedication but also just bad on your word and reputation.
 
+public contact information: discord: justthatrio#0509
+
 # BlockenStein
 ![Promotional1](https://user-images.githubusercontent.com/53139880/136778295-aa336e49-471a-48e1-9a55-c318bc531ff6.png)
 ## Description
