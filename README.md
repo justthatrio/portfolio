@@ -26,8 +26,9 @@ The point is.. let your mad scientist out and see what crazy mad creations you c
 
 
 # CashFlow
-![CashFlowLogo](https://user-images.githubusercontent.com/53139880/136856680-a2e1a2ab-53cf-421a-8e86-e0b142fe6dbf.png)
+![CashFlowLogo](https://user-images.githubusercontent.com/53139880/137056814-ee16c193-db97-457c-802e-50593be6c186.png)
 ![Screenshot](https://user-images.githubusercontent.com/53139880/137054820-157e6ece-f7d0-4c96-87a8-573927e75782.PNG)
+please note this is a screenshot taken 2 days after the project was started, yes address is spelled wrong and yes its hard to understand whats going on and no there isnt a way of scrolling. This is all guaranteed to change rapidly
 
 ## Description
 My plan for this program is to create an extremely modern ui to display blockchains with a focus on exposing where money is coming from and where its going in an extremely readable way. The premise is a user will be able to enter a wallets address then they can label that wallet and always know who it belongs to on the graph in a seconds glance. when they enter a wallet the transaction history of that wallet is displayed as nodes in a graph organized left to right by time, and organized vertically automatically by each wallet visible on screen. Only the first 4 letters of a unlabled nodes hash is visible at a glance, but clicking the node will display all the information about it including the full hash and money in account at the time of that transaction happening or allow you to relabel the node. Selecting a wallet node and clicking view history, will load its transaction history into the same graph your viewing. Therefore you will be able to see side by side when each transaction in each wallet took place and see wires connecting between the wallets wherever they made transactions to each other.
