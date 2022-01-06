@@ -9,6 +9,7 @@ I am the kinda person with over a hundred thousand unfinished projects over my l
 Public contact information:
  discord: justthatrio#0509
 # Timber Mill
+![Promotional0](https://raw.githubusercontent.com/justthatrio/TimberMillContent/TimberMillPromotions/TimberMillPromotionalDisplay.png)
 ## Description
 Timber Mill is a free-to-play micro-transaction based platform that allows players to build and customize on a plot of land that can be loaded in and relocated to different lots each time logging in. In Timber Mill players harvest trees for resources to build and collect limited edition collectibles to either trade, display or, refund. The games core mechanic is players having the ability to set up factories to produce limited edition collectibles and sell them to other players shops that then sell the collectibles or resources they have purchased, created or collected. Players are given the freedom to play the game how they wish and can create their own individualized experience.
 
